@@ -2,7 +2,7 @@
 
  This simple app predicts the prices for houses in Bosten area. User get two option to generate prediction : **Online** and **Batch**.
  
-** Simple app ** in 5 mins : AWS
+**Simple app** in 5 mins : AWS
 
 Step 1 : Create EC2 instence in AWS
 
