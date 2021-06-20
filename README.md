@@ -8,7 +8,7 @@ Step 1 : Create EC2 instence in AWS
 
 Step 2 : Connect created EC2 instence(Browser-Based)
 
-Step 3 : use command below command
+Step 3 : Use below command
 
       3.1 sudo apt-get update
       3.2 git clone https://github.com/ravimandal/Boston_housing_price_prediction_app.git
