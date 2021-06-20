@@ -21,9 +21,9 @@ Step 4 : change your dir to clone directory
       
       4.1 cd Boston_housing_price_prediction_app
 
-Step 4 : In same command line
+Step 5 : In same command line
      
-     4.1 streamlit run app.py
+     5.1 streamlit run app.py
      
-Step 5 : Use ip address in url to enjoy app prediction.
+Step 6 : Use ip address in url to enjoy app prediction.
 
