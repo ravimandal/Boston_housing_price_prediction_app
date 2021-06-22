@@ -27,5 +27,7 @@ Step 5 : In same command line
      
 Step 6 : Use ip address in url to enjoy app prediction.
 
-[app prediction](https://share.streamlit.io/ravimandal/boston_housing_price_prediction_app/main/app.py)
+[streamlit](https://share.streamlit.io/ravimandal/boston_housing_price_prediction_app/main/app.py)
+
+[heroku](https://bostonhouseprediction0.herokuapp.com/)
 
